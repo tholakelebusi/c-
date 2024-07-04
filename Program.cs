@@ -118,7 +118,7 @@ public class Program
 {
   static void Main(string[] args)
   {
-    const string apiKey = "******"; // Replace with your actual API key
+    const string apiKey = "**********"; // Replace with your actual API key
     const string baseUrl = "https://api.openweathermap.org/data/2.5/weather";
 
     string city = "Johannesburg"; // Replace with the city you want to query
